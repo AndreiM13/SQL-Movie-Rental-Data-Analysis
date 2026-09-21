@@ -8,7 +8,11 @@ The exercises use a movie rental database and progress from simple queries to mo
 
 My goal with this project was not only to get the correct results, but to improve my understanding of how to explore relational data and choose the appropriate SQL techniques for different questions.
 
-## Skills Practiced
+Database: PostgreSQL
+Project: Movie Rental Data Analysis
+Focus: SQL querying, joins, aggregations, filtering, CASE expressions, and subqueries.
+
+## Skills Practised
 
 Throughout the 9 challenges, I worked with:
 
